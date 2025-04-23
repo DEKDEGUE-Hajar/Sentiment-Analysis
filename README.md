@@ -22,8 +22,6 @@ The necessary libraries for the analysis are installed and imported:
 - `pandas` for data manipulation
 - ...
 
-Additionally, Google Drive is mounted to access the dataset stored in the cloud.
-
 ---
 
 ### 2. Dataset Loading
