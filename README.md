@@ -20,6 +20,7 @@ The necessary libraries for the analysis are installed and imported:
 - `transformers` for the BERT model
 - `torch` for PyTorch
 - `pandas` for data manipulation
+- ...
 
 Additionally, Google Drive is mounted to access the dataset stored in the cloud.
 
